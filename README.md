@@ -13,5 +13,5 @@ docker build -t cvirginie/pytoolbox:latest .
 ```
 
 ```python
-docker run -it --rm cvirginie/pytoolbox:latest python3
+docker run -it cvirginie/pytoolbox:latest python3
 ```
