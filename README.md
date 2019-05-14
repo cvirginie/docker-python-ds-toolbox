@@ -13,7 +13,7 @@ Docker environment with python and the following data science packages :
 docker build .
 ```
 
-## Pull from repo
+## Pull and run from repo
 ```python
 docker run -it cvirginie/pytoolbox:latest python3
 ```
